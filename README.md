@@ -1,3 +1,3 @@
 # shell-scripting
 
-hello
+basic scripts to help in doing day to day work
